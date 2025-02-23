@@ -6,16 +6,25 @@ Una aplicación que ofrece una colección de recetas de cocina. Los usuarios pue
 
 Aplicaciones similares:
 
-- ...
-- ...
-- ...
+-[Delicioso].( http://kitchenaid.com/recipes.html )
+-[Sabroso].( https://tasty.co/latest )
+-[Cookpad].( https://cookpad.com/es/homepage )
 
-## Idea 2
+## Idea 2:BitácoraViajera
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Una aplicación para que los usuarios registren sus experiencias de viaje. Permite agregar fotos, notas y ubicaciones geográficas.
 
 Aplicaciones similares:
 
-- ...
-- ...
-- ...
+- [TripIt].(https://www.tripit.com/es-co/web)
+- [Polarsteps].(https://www.polarsteps.com/)
+- [Journi].(https://journey.cloud/es)
+  
+## Idea 3:GestiónFinanciera
+Una aplicación para ayudar a los usuarios a gestionar sus finanzas personales. Permite registrar ingresos y gastos, crear presupuestos y generar informes financieros.
+
+Aplicaciones similares:
+
+-[Mint].(https://mint.intuit.com/)
+-[PocketGuardx].(https://pocketguard.com/)
+-[GoodBudget].(https://goodbudget.com/)
