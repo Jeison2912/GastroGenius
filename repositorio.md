@@ -1,6 +1,6 @@
 # GastroGenius
 
-Una aplicación que ofrece una colección de recetas de cocina. Los usuarios pueden encontrar recetas, guardar sus favoritas, crear listas de compras y, además, podrán compartir sus propias recetas con la comunidad
+Una aplicación que ofrece una colección de recetas de cocina. Los usuarios pueden encontrar recetas, guardar sus favoritas, además, podrán compartir sus propias recetas con la comunidad
 
 Author: Jeison Steven Niño Rojas
 
