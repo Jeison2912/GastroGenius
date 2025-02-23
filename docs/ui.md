@@ -6,10 +6,32 @@ La aplicación tendrá el siguiente logo
    -Muestra el logo y el nombre de la app
    
 
-![screen1](![image](https://github.com/user-attachments/assets/7ad84ab4-6680-4111-b127-1e6a722f3a39)
+(![image](https://github.com/user-attachments/assets/7ad84ab4-6680-4111-b127-1e6a722f3a39)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Referencias
+- [IMAGEN 1: ](https://www.freepik.es/vectores/color)
 
-- [Material Design: Foundations](https://m3.material.io/foundations)
-- [Material Design: Style](https://m3.material.io/styles)
