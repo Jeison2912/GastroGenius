@@ -1,11 +1,15 @@
-# Funcionalidades
+## ✨ Funcionalidades de la Aplicación
 
-La siguientes es una lista de las funcionalidades disponibles para el usuario de la aplicación:
+"GastroGenius" ofrece un conjunto completo de características diseñadas para mejorar la experiencia culinaria del usuario:
 
-1. Buscar Recetas:los usuarios podran buscar recetas por nombre,ingredientes,tipo de comida como por ejemplo desayunos,almuerzo,cena o postre.
-2. Guardar Recetas favoritas:La aplicación permitirá a los usuarios marcar sus recetas favoritas, lo que facilitará su búsqueda en el futuro
-3. calificacion y comentarios:Los usuarios podrán asignar una calificación y dejar comentarios sobre su experiencia al preparar y degustar las recetas, lo que ayudará a otros usuarios a elegir la receta que mejor se ajuste a sus preferencias
-4. perfil personal: Los usuarios podrán crear y personalizar su perfil, donde podrán encontrar las recetas guardadas, compartidas o publicadas por ellos.
-5. Filtrar:Los usuarios podrán filtrar las recetas por nombre, ingredientes o tipo de receta, lo que les permitirá encontrar fácilmente aquellas que se ajusten a sus gustos.
-6. comunidad:Los usuarios podrán unirse o crear una comunidad, lo que les permitirá interactuar con otros usuarios para intercambiar recetas y sugerencias.
-7. 
+1.  **Búsqueda Avanzada de Recetas:**
+    * Los usuarios pueden buscar recetas de forma eficiente por nombre
+2.  **Gestión de Recetas Favoritas:**
+    * Permite a los usuarios marcar y guardar sus recetas preferidas en una sección dedicada, facilitando su acceso rápido y organizado en el futuro.
+
+3.  **Perfil Personal Personalizable:**
+    * Cada usuario puede crear y personalizar su propio perfil dentro de la aplicación. Este espacio centralizado permite visualizar y gestionar sus recetas guardadas, así como aquellas que han compartido o publicado.
+
+4.  **Filtrado Inteligente de Recetas:**
+    * Los usuarios pueden aplicar filtros a la lista de recetas por nombre, ingredientes clave o tipo de receta, lo que les permite encontrar rápidamente opciones que se ajusten a sus gustos o necesidades dietéticas.
+
